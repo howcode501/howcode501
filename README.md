@@ -5,7 +5,7 @@
 <p align="center">
   # Major language #
   [![My Skills](https://skillicons.dev/icons?i=cpp,cs,python)](https://skillicons.dev)
-  
+</p> 
   # Web Express #
   [![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,sass)](https://skillicons.dev)
   
@@ -21,7 +21,7 @@
   ## Dev tools ##
   [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,atom,anaconda)](https://skillicons.dev)
   
-</p>
+
 
 
 <!---
