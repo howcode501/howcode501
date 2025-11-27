@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./upvsdown.png" width="150" ">
+  <img src="./upvsdown.png" width="100%">
 </p>
 
 
