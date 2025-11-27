@@ -2,12 +2,16 @@
   <img src="https://github.com/howcode501.png" width="150" style="border-radius: 50%;">
 </p>
 
-<p align="center">
+
   # Major language #
   [![My Skills](https://skillicons.dev/icons?i=cpp,cs,python)](https://skillicons.dev)
-</p> 
+
   # Web Express #
-  [![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,sass)](https://skillicons.dev)
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,sass" />
+    </a>
+  </p>
   
   # Frontend Framework #
   [![My Skills](https://skillicons.dev/icons?i=vue,vuetify,nuxtjs,vite)](https://skillicons.dev)
