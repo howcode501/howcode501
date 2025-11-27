@@ -2,8 +2,8 @@
   <img src="./upvsdown.png" width="100%">
 </p>
 
-
-  # Major language #
+<!---
+# Major language #
   [![My Skills](https://skillicons.dev/icons?i=cpp,cs,python)](https://skillicons.dev)
 
   <div align="center">
@@ -12,8 +12,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,sass" />
   </a>
-
-</div>
+  
+  </div>
   
   # Frontend Framework #
   [![My Skills](https://skillicons.dev/icons?i=vue,vuetify,nuxtjs,vite)](https://skillicons.dev)
@@ -23,9 +23,10 @@
   
   # Database Management #
   [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+--->
+
+
   
-  ## Dev tools ##
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,atom,anaconda)](https://skillicons.dev)
   
 
 
