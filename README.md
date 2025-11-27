@@ -8,10 +8,9 @@
 
   ### Web Express
   <p align="center">
-    
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,sass" />
-    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,sass" />
+  </a>
   </p>
   
   # Frontend Framework #
