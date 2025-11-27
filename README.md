@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/howcode501.png" width="150" style="border-radius: 50%;">
+  <img src="./upvsdown.png" width="150" ">
 </p>
 
 
