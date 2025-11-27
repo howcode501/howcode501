@@ -6,8 +6,9 @@
   # Major language #
   [![My Skills](https://skillicons.dev/icons?i=cpp,cs,python)](https://skillicons.dev)
 
-  # Web Express #
+  
   <p align="center">
+    # Web Express #
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,sass" />
     </a>
