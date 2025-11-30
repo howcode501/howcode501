@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./trading_view_img.png">
+  <img src="./upvsdown.png">
 </p>
 
 <!---
